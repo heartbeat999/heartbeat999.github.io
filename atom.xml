@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heartbeat999.github.io</id>
     <title>heartbeat999's blog</title>
-    <updated>2026-10-06T16:30:34.604Z</updated>
+    <updated>2026-10-06T16:34:30.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>heartbeat999</name>
@@ -15,30 +15,45 @@
     <icon>https://heartbeat999.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, heartbeat999</rights>
     <entry>
-        <title type="html"><![CDATA[Welcome to sansui's blog]]></title>
+        <title type="html"><![CDATA[关于这个站点]]></title>
         <id>https://heartbeat999.github.io/posts/welcome</id>
         <link href="https://heartbeat999.github.io/posts/welcome"/>
-        <updated>2016-03-24T11:23:17.000Z</updated>
-        <content type="html"><![CDATA[<p>这个文件记录了此博客的外观变化。从2016年开始，使用 hexo 建立博客。</p>
-<h2>2019-03-24</h2>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这个站点用来记录一些思考、随手记和长文。</p>
 <ul>
-<li><a href="https://github.com/litten/hexo-theme-yilia">yilia</a>，一个hexo官网没有的但很多人都知道的主题。移动端的优化很好。偏重于内容，挺生活化的，搜索也很全。</li>
-<li><a href="https://cloudy-liu.github.io/2018/07/14/Hexo%E6%9B%B4%E6%8D%A2%E4%B8%BAGitTalk%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/">yilia接入gittalks评论</a>。</li>
-<li><a href="https://blog.csdn.net/lynnbest/article/details/79845944">Hexo yilia 主题一揽子使用方案</a></li>
+<li>「说说」是短动态，想到什么发什么。</li>
+<li>「文章」是写完整的内容。</li>
 </ul>
-<h2>2020-11</h2>
-<p>换成了 Hugo 的 Loveit。</p>
-<h2>2020-12</h2>
-<p>逐渐偏黑白设计感。</p>
-<ul>
-<li><a href="https://github.com/aircloud/hexo-theme-aircloud">hexo-theme-aircloud</a></li>
-<li><a href="https://github.com/SuperKieran/TKL">tkl</a></li>
-</ul>
-<h2>2022-05-13</h2>
-<p>用 NextJS 重构中。将逐渐脱离通用博客框架。</p>
-<h2>2023-08-21</h2>
-<p>文档数据丢失。内容慢慢重写。</p>]]></content>
+<h2>怎么用</h2>
+<pre><code class="language-bash"># 上传图片，markdown 链接自动进剪贴板
+./upload.sh ~/Desktop/截图.png
+
+# 编辑 content/memos/001.md 写微博（新内容写在文件最前面）
+# 编辑 content/posts/*.md 写文章
+
+# 构建并上线
+./deploy.sh
+</code></pre>
+<p>代码块右上角有复制按钮，点一下就能拿走代码。</p>]]></content>
         <category label="其他"/>
-        <published>2016-03-24T11:23:17.000Z</published>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎碎念001]]></title>
+        <id>https://heartbeat999.github.io/memos?id=2026-10-06T16:00:00.000Z</id>
+        <link href="https://heartbeat999.github.io/memos"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>2026-10-07 00:00:00</h2>
+<p>站点搭好了，代码块能一键复制。</p>
+<hr/>
+<h2>2026-10-06 12:00:00</h2>
+<p>第一条微博。用来测试排版。</p>
+<p>支持 <strong>粗体</strong> <em>斜体</em> ~~删除线~~ <code>行内代码</code>，也支持列表：</p>
+<ul>
+<li>项目一</li>
+<li>项目二</li>
+</ul>
+<p>写点什么都行。</p>]]></content>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
 </feed>
