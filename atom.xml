@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heartbeat999.github.io</id>
     <title>heartbeat999's blog</title>
-    <updated>2026-10-06T15:16:06.094Z</updated>
+    <updated>2026-10-06T16:30:34.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>heartbeat999</name>
-        <email>hanbingmxcz15@gmail.com</email>
+        <email>yourname@example.com</email>
         <uri>https://heartbeat999.github.io/about</uri>
     </author>
     <link rel="alternate" href="https://heartbeat999.github.io"/>
