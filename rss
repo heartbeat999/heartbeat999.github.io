@@ -4,12 +4,26 @@
         <title>heartbeat999's blog</title>
         <link>https://heartbeat999.github.io</link>
         <description>记录学习和生活的个人博客</description>
-        <lastBuildDate>Wed, 07 Oct 2026 08:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 08:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>All rights reserved 2022, heartbeat999</copyright>
         <atom:link href="https://heartbeat999.github.io/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[文章标题]]></title>
+            <link>https://heartbeat999.github.io/posts/test</link>
+            <guid isPermaLink="false">https://heartbeat999.github.io/posts/test</guid>
+            <pubDate>Wed, 07 Oct 2026 07:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>开始写正文</h2>
+<p>这里是代码</p>
+<pre><code>abc
+</code></pre>
+<p>下面将插入图片</p>
+<p><img src="https://res.cloudinary.com/oqkb2daf/image/upload/v1791359565/d2garbxl6d2y4xnts2b3.jpg" alt="971b19fb774ef0dfae605158e0042f32"></p>
+<p>这里已经完成测试</p>]]></content:encoded>
+            <category domain="https://heartbeat999.github.io/categories/其他">其他</category>
+        </item>
         <item>
             <title><![CDATA[关于这个站点]]></title>
             <link>https://heartbeat999.github.io/posts/welcome</link>
