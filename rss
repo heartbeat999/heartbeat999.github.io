@@ -4,7 +4,7 @@
         <title>heartbeat999's blog</title>
         <link>https://heartbeat999.github.io</link>
         <description>记录学习和生活的个人博客</description>
-        <lastBuildDate>Wed, 07 Oct 2026 03:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 04:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -51,7 +51,7 @@
 <p>写点什么都行。</p>
 <hr/>
 <h2>2026-10-08 11:11:11</h2>
-<p>随便测试点内容xxx</p>]]></content:encoded>
+<p>随便<strong>测试</strong>点<em>内容</em>    ~~xxx~~</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
