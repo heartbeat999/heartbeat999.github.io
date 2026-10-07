@@ -11,7 +11,13 @@
     <changefreq>always</changefreq>
   </url>
   <url>
+    <loc>https://heartbeat999.github.io/posts/wechat%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B5%8B%E8%AF%95</loc>
+  </url>
+  <url>
     <loc>https://heartbeat999.github.io/posts/test</loc>
+  </url>
+  <url>
+    <loc>https://heartbeat999.github.io/posts/path-test</loc>
   </url>
   <url>
     <loc>https://heartbeat999.github.io/posts/welcome</loc>
@@ -30,5 +36,8 @@
   </url>
   <url>
     <loc>https://heartbeat999.github.io/tags/blog</loc>
+  </url>
+  <url>
+    <loc>https://heartbeat999.github.io/tags/Untagged</loc>
   </url>
 </urlset>

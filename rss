@@ -4,12 +4,40 @@
         <title>heartbeat999's blog</title>
         <link>https://heartbeat999.github.io</link>
         <description>记录学习和生活的个人博客</description>
-        <lastBuildDate>Wed, 07 Oct 2026 08:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 11:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>All rights reserved 2022, heartbeat999</copyright>
         <atom:link href="https://heartbeat999.github.io/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WeChat小程序测试]]></title>
+            <link>https://heartbeat999.github.io/posts/wechat小程序测试</link>
+            <guid isPermaLink="false">https://heartbeat999.github.io/posts/wechat小程序测试</guid>
+            <pubDate>Wed, 07 Oct 2026 10:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>准备工作</h2>
+<blockquote>
+<p>移除当前版本微信并安装旧版微信(MacOS)</p>
+</blockquote>
+<h2>卸载当前微信版本号文件夹(MacOS)✅</h2>
+<ul>
+<li>
+<p>打开访达</p>
+</li>
+<li>
+<p>按下shift+command+G</p>
+</li>
+<li>
+<p>复制粘贴以下路径</p>
+</li>
+</ul>
+<pre><code>/Users/apple/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files
+</code></pre>
+<ul>
+<li>右键wxid_开头的文件夹删除。</li>
+</ul>]]></content:encoded>
+            <category domain="https://heartbeat999.github.io/categories/其他">其他</category>
+        </item>
         <item>
             <title><![CDATA[文章标题]]></title>
             <link>https://heartbeat999.github.io/posts/test</link>
