@@ -1,0 +1,1 @@
+import{B as a,N as e,t as r}from"./jsx-runtime-CVdCpZ2C.js";var s=a(r(),1),l=e(function({loaderData:a}){return(0,s.jsx)("div",{className:"flex h-screen flex-col bg-gray-50 p-4",children:a.slug})});export{l as default};

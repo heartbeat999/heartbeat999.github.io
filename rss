@@ -4,7 +4,7 @@
         <title>heartbeat999's blog</title>
         <link>https://heartbeat999.github.io</link>
         <description>记录学习和生活的个人博客</description>
-        <lastBuildDate>Wed, 07 Oct 2026 04:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -21,6 +21,28 @@
 <li>「文章」是写完整的内容。</li>
 </ul>
 <h2>怎么用</h2>
+<pre><code class="language-bash"># 上传图片，markdown 链接自动进剪贴板
+./upload.sh ~/Desktop/截图.png
+
+# 编辑 content/memos/001.md 写微博（新内容写在文件最前面）
+# 编辑 content/posts/*.md 写文章
+
+# 构建并上线
+./deploy.sh
+</code></pre>
+<p>代码块右上角有复制按钮，点一下就能拿走代码。</p>]]></content:encoded>
+            <category domain="https://heartbeat999.github.io/categories/其他">其他</category>
+        </item>
+        <item>
+            <title><![CDATA[测试-记录的第一篇文章]]></title>
+            <link>https://heartbeat999.github.io/posts/记录第一篇文章</link>
+            <guid isPermaLink="false">https://heartbeat999.github.io/posts/记录第一篇文章</guid>
+            <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>记录的第一篇教程文章</h2>
+<p>这个仅仅是测试，没有任何实际意义。</p>
+<pre><code>代码段
+</code></pre>
+<h2>怎么上传图片</h2>
 <pre><code class="language-bash"># 上传图片，markdown 链接自动进剪贴板
 ./upload.sh ~/Desktop/截图.png
 
@@ -51,7 +73,11 @@
 <p>写点什么都行。</p>
 <hr/>
 <h2>2026-10-08 11:11:11</h2>
-<p>随便<strong>测试</strong>点<em>内容</em>    ~~xxx~~</p>]]></content:encoded>
+<p>随便<strong>测试</strong>点<em>内容</em>    ~~xxx~~</p>
+<p>xxx</p>
+<hr/>
+<h2>标题测试 </h2>
+<p>xxxx111112222</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
