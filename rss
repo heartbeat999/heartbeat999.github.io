@@ -4,7 +4,7 @@
         <title>heartbeat999's blog</title>
         <link>https://heartbeat999.github.io</link>
         <description>记录学习和生活的个人博客</description>
-        <lastBuildDate>Wed, 07 Oct 2026 03:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 03:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -43,12 +43,15 @@
 <hr/>
 <h2>2026-10-06 12:00:00</h2>
 <p>第一条微博。用来测试排版。</p>
-<p>支持 <strong>粗体</strong> <em>斜体</em> ~~删除线~~ <code>行内代码</code>，也支持列表：</p>
+<p>支持<strong>粗体</strong> <em>斜体</em> ~~删除线~~ <code>行内代码</code>，也支持列表：</p>
 <ul>
 <li>项目一</li>
 <li>项目二</li>
 </ul>
-<p>写点什么都行。</p>]]></content:encoded>
+<p>写点什么都行。</p>
+<hr/>
+<h2>2026-10-08 11:11:11</h2>
+<p>随便测试点内容xxx</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

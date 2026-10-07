@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heartbeat999.github.io</id>
     <title>heartbeat999's blog</title>
-    <updated>2026-10-07T03:06:26.629Z</updated>
+    <updated>2026-10-07T03:35:50.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>heartbeat999</name>
@@ -48,12 +48,15 @@
 <hr/>
 <h2>2026-10-06 12:00:00</h2>
 <p>第一条微博。用来测试排版。</p>
-<p>支持 <strong>粗体</strong> <em>斜体</em> ~~删除线~~ <code>行内代码</code>，也支持列表：</p>
+<p>支持<strong>粗体</strong> <em>斜体</em> ~~删除线~~ <code>行内代码</code>，也支持列表：</p>
 <ul>
 <li>项目一</li>
 <li>项目二</li>
 </ul>
-<p>写点什么都行。</p>]]></content>
+<p>写点什么都行。</p>
+<hr/>
+<h2>2026-10-08 11:11:11</h2>
+<p>随便测试点内容xxx</p>]]></content>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
 </feed>
